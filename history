@@ -1,0 +1,42 @@
+github project historty
+-- -----------
+   1 try { . "c:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\cont...
+   2 git branch
+   3 git checkout main
+   4 git log --oneline
+   5 code .\login.html
+   6 code .\merlin.html
+   7 git checkout feature
+   8 git rebase main
+   9 git log --oneline
+  10 git checkout main
+  11 git log --oneline
+  12 git checkout main
+  13 git log --oneline
+  14 git checkout feature
+  15 git checkout main
+  16 git restore
+  17 git restore .\merlin.html
+  18 git restore .\merlin.html
+  19 git log --oneline
+  20 git checkout feature
+  21 git rebase main
+  22 git log --oneline
+  23 git checkout main
+  24 git merge feature
+  25 git pull
+  26 git push
+  27 gpg --full-generate-key
+  28 gpg -version
+  29 git branch
+  30 git checkout feature-test
+  31 git checkout -b feature-test
+  32 code  test.py
+  33 git push -u origin feature-test
+  34 git checkout -b bugfix
+  35 git push -u origin bugfix
+  36 git tag -a v1.0 -m "first version released"
+  37 git log
+  38 git push --tags
+  39 git history
+  40 git history
